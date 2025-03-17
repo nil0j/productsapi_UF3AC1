@@ -1,3 +1,4 @@
 node_modules
 views/styles/styles.css
 config/config.js
+.env
